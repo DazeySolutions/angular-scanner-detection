@@ -1,0 +1,29 @@
+{
+  "name": "angular-scanner-detection",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mrd030485/angular-scanner-detection",
+  "authors": [
+    "Mark Dazey <mark@dazeysolutions.com>"
+  ],
+  "description": "Angular Scanner Detection is a directive to detect when a user uses a scanner (barcode, QR Code...) instead of a keyboard, and call specific callbacks.",
+  "main": "angular.scannerdetections.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "barcode",
+    "scan",
+    "detect",
+    "qr"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
