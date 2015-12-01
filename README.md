@@ -6,6 +6,10 @@ Angular Scanner Detection is a directive to detect when a user uses a scanner (b
 
 How use it
 ----------
+Add 'scanner.detection' to includes:
+
+    var app = angular.module('app', ['scanner.detection']);
+    
 Setup options: 
 
     $scope.scan_options = {
@@ -25,9 +29,6 @@ Setup options:
 Add directive to html:
 
     <input type="text" ng-model=".." ng-scanner-detect="scan_options">
-
-	
-See a detailed tutorial with presets for different scanner models and first steps to take when starting [here](http://a.kabachnik.info/jquery-scannerdetection-tutorial.html).
 
 
 Options

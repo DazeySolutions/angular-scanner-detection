@@ -1,15 +1,13 @@
 /*
- * angularjs Scanner Detection
- *
- * Copyright (c) 2013 Julien Maurel
+ * Angular Scanner Detection
  *
  * Licensed under the MIT license:
  * http://www.opensource.org/licenses/mit-license.php
  *
  * Project home:
- * https://github.com/julien-maurel/jQuery-Scanner-Detection
+ * https://github.com/DazeySolutions/angular-scanner-detection
  *
- * Version: 1.2.1
+ * Version: 0.0.1
  *
  */
 'use strict';
